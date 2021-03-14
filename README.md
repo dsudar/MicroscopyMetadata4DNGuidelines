@@ -2,7 +2,7 @@
 
 **STAND BY FOR THE UPCOMING MAJOR REVISION THAT WAS AUTHORED BY THE [BINA Quality Control and Data Management Working Group](https://www.bioimagingna.org/qc-dm-wg)**
 
-Please contribute to the in-progress revision by filing issues against the current V02-00 draft of the model. Click on "Issues" above, the "New Issue" button, and select whether you are submitting a new feature proposal or want to propose a change to the current proposal.
+Please contribute to the in-progress revision by filing issues against the current V02-00 draft of the model. Click on "Issues" above, the "New Issue" button, and select whether you are proposing a new feature or proposing a change to the current version.
 
 # 4D Nucleome + Bioimaging North America Microscopy Metadata Tiered guidelines extending the OME Data Model
 
